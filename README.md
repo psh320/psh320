@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/psh320/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psh320)](https://github.com/psh320/github-readme-stats)
 <!--
 **psh320/psh320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
