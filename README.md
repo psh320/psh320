@@ -1,40 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0164fe&height=300&section=header&text=Sungho%20Park&fontSize=60&fontColor=FFFFFF)
 
-<h3 align="center">Tech Stack</h3>
-
----
-
-title: "Get Started"
-output: flexdashboard::flex_dashboard
-
----
-
-```{r setup, include=FALSE}
-library(flexdashboard)
-```
-
-## Column 1
-
-### Chart A
-
-```{r}
-
-```
-
-## Column 2
-
-### Chart B
-
-```{r}
-
-```
-
-### Chart C
-
-```{r}
-
-```
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psh320)](https://github.com/psh320/github-readme-stats)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/psh320?theme=light&font=Poppins)
