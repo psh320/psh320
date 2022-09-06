@@ -1,18 +1,42 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0164fe&height=300&section=header&text=Sungho%20Park&fontSize=60&fontColor=FFFFFF)
 
+<h3 align="center">Tech Stack</h3>
+
+---
+
+title: "Get Started"
+output: flexdashboard::flex_dashboard
+
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+## Column 1
+
+### Chart A
+
+```{r}
+
+```
+
+## Column 2
+
+### Chart B
+
+```{r}
+
+```
+
+### Chart C
+
+```{r}
+
+```
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psh320)](https://github.com/psh320/github-readme-stats)
 
-<!--
-**psh320/psh320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![LeetCode Stats](https://leetcard.jacoblin.cool/psh320?theme=light&font=Poppins)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpsh320%2Fhit-counter&count_bg=%23353535&title_bg=%230F0F0F&icon=github.svg&icon_color=%23FFFFFF&title=GIthub&edge_flat=false)](https://hits.seeyoufarm.com)
