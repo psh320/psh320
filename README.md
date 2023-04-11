@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sungho-park.vercel.app/](https://sungho-park.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@parksungho320](https://medium.com/@parksungho320)
+- 📝 I try to write what I learn on [https://medium.com/@parksungho320](https://medium.com/@parksungho320)
 
 - 📫 How to reach me **parksungho320@gmail.com**
 
